@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://joofooreey.starryfei.top/sitemap.xml
